@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **HTML / CSS**
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **selmanovicabdurrahman@gmail.com**
 
