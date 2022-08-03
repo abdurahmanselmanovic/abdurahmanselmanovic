@@ -1,6 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Abdurahman</h1><hr>
+<h1 align="center">Hi 👋, I'm Abdurahman</h1>
 <h3 align="left">A passionate frontend developer from Serbia</h3>
+<hr>
+
 
 - 🔭 I’m currently working on **Bootstrap**
 
