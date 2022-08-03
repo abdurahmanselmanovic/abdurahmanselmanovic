@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Abdurahman</h1>
-<h3 align="left">A passionate frontend developer from Serbia</h3>
+<h3 align="center">A passionate frontend developer from Serbia</h3>
 <hr>
 
 
