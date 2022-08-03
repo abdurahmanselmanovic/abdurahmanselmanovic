@@ -8,7 +8,8 @@
 
 - 📫 How to reach me **selmanovicabdurrahman@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me:</h3>
+<p>selmanovicabdurrahman@gmail.com</p>
 <p align="left">
 </p>
 
